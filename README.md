@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Uday Kumar Yadla!  
 
 🚀 **Passionate Software Engineer | MERN Stack Developer**  
-💡 **Problem-Solver | Mentor | Lifelong Learner**  
+💡 **Problem-Solver | Lifelong Learner**  
 
 ---
 
@@ -70,8 +70,6 @@ A secure platform for creating and sharing blogs with token-based authentication
 
 ### 🎯 **Certifications**  
 - **Full-Stack Web Development** (*Masai School*)  
-- **JavaScript Data Structures and Algorithms** (*FreeCodeCamp*)  
-
 ---
 
 ### 📬 **Let’s Connect!**  
